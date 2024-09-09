@@ -1,4 +1,4 @@
-x^Zur Kommunikation zwischen Client und Server kommen zwei Paradigmen zum Einsatz:
+Zur Kommunikation zwischen Client und Server kommen zwei Paradigmen zum Einsatz:
 
 1. **REST API**
 2. **Server-Sent Events (SSE)**
@@ -25,6 +25,10 @@ Es ist zunächst wichtig zu betonen, dass für den Betrieb des Programms keine k
 Das bedeutet, es ist zwar vorteilhaft, wenn der aktuelle Kilometerstand immer auf dem Server abrufbar ist, aber es stellt kein Problem dar, falls Clients während der Fahrt die Verbindung verlieren und erst am Ende der Fahrt wiederherstellen. In einem solchen Fall können sie die Daten lokal speichern und sie übermitteln, sobald die Verbindung zum Hauptserver wieder besteht.
 
 Sollte es zu einem schwerwiegenden Fehler kommen und eine Fahrt nicht aufgezeichnet werden, besteht natürlich die Möglichkeit, Fahrten manuell nachzutragen. Server-Sent Events (SSE) bieten hier zusätzlich den Vorteil, dass sie eine automatische Wiederverbindung ermöglichen, was die Zuverlässigkeit weiter verbessert. 
+
+# Was für stadien der Trips gibt es
+
+Aufgrund von verschieden faktoren 
 
 # Wie funktioniert der Login über Rest und SSE
 
