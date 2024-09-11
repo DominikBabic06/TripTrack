@@ -2,18 +2,16 @@
 <details>
 <summary>Boris </summary>
 
-This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
 
 </details>
 <details>
 <summary>Daniel </summary>
+https://www.youtube.com/watch?v=XNjOSY-wcb0
 
-This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
 
 </details>
 <details>
 <summary> Dominik </summary>
 
-This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
 
 </details>
