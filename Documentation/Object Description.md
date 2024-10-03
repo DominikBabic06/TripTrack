@@ -11,7 +11,7 @@ Dieses Dokument dient der Vereinfachung der Planung von Triptrack, indem die ben
 
 ## Fahrtenbuch
 
-Das Fahrtenbuch ist eine Sammlung aller aufgezeichneten Fahrten (Trips) und dient als Übersicht über die Nutzung der Fahrzeuge innerhalb eines Teams oder durch einen einzelnen Benutzer.
+Das Fahrtenbuch ist eine Sammlung aller aufgezeichneten Fahrten (Trips) und dient als Übersicht über die Nutzung der Fahrzeuge innerhalb eines Teams oder durch einen einzelnen Benutzer. Trips werden aber dem Team zugewiesen das Fahrtenbuch wird erst bei abrufung erstellt. 
 
 - **ID**: Eindeutige Identifikation für das Fahrtenbuch.
 - **Team**: Referenz auf das Team, zu dem das Fahrtenbuch gehört.
@@ -55,7 +55,7 @@ Ein Trip repräsentiert eine einzelne Fahrt im Fahrtenbuch.
     - **Beendet**: Die Fahrt wurde abgeschlossen.
     - **Abgeschlossen**: Alle Felder des Trips wurden ausgefüllt.
     - **Unbekannt**: Es konnte keine Verbindung zum Client hergestellt werden.
-
+-**Team**: Identifikation des Teams welchem der Trip zugewiesen wird.
 Hinweis: Alle Felder eines Trips können nach Abschluss der Fahrt sowohl vom Fahrer als auch vom Teamleiter bearbeitet werden, mit Ausnahme des Statusfeldes.
 
 ## Team
