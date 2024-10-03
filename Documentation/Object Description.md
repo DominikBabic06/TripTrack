@@ -54,7 +54,10 @@ Ein Trip repräsentiert eine einzelne Fahrt im Fahrtenbuch.
     - **Beendet**: Die Fahrt wurde abgeschlossen.
     - **Abgeschlossen**: Alle Felder des Trips wurden ausgefüllt.
     - **Unbekannt**: Es konnte keine Verbindung zum Client hergestellt werden.
+  
 -**Team**: Identifikation des Teams welchem der Trip zugewiesen wird.
+
+
 Hinweis: Alle Felder eines Trips können nach Abschluss der Fahrt sowohl vom Fahrer als auch vom Teamleiter bearbeitet werden, mit Ausnahme des Statusfeldes.
 
 ## Team
