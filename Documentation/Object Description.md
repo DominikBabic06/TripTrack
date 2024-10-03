@@ -32,7 +32,6 @@ Ein Fahrzeug ist ein Objekt, das von einem oder mehreren Teams genutzt werden ka
 - **Modell**: Das Modell des Fahrzeugs (z.B Marke: Volkswagen; Modell: Golf)
 - **Farbe**: Die Farbe des Fahrzeugs.
 - **Kilometerstand**: Der aktuelle Kilometerstand des Fahrzeugs.
-- **Fahrzeugtyp**: Art des Fahrzeugs (z. B. PKW, LKW, Motorrad).
 - **Baujahr**: Das Baujahr des Fahrzeugs.
 - **Aktueller Standort**: Der letzte bekannte Standort des Fahrzeugs (optional).
 
