@@ -28,7 +28,8 @@ Ein Fahrzeug ist ein Objekt, das von einem oder mehreren Teams genutzt werden ka
 
 - **ID**: Eindeutige Identifikation für jedes Fahrzeug.
 - **Kennzeichen**: Das amtliche Kennzeichen des Fahrzeugs.
-- **Marke und Modell**: Die Marke und das Modell des Fahrzeugs (z. B. "Volkswagen Golf").
+- **Marke**: Die Marke des Fahrzeugs.
+- **Modell**: Das Modell des Fahrzeugs (z.B Marke: Volkswagen; Modell: Golf)
 - **Farbe**: Die Farbe des Fahrzeugs.
 - **Kilometerstand**: Der aktuelle Kilometerstand des Fahrzeugs.
 - **Fahrzeugtyp**: Art des Fahrzeugs (z. B. PKW, LKW, Motorrad).
