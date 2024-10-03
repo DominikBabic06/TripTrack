@@ -33,7 +33,7 @@ Ein Fahrzeug ist ein Objekt, das von einem oder mehreren Teams genutzt werden ka
 - **Farbe**: Die Farbe des Fahrzeugs.
 - **Kilometerstand**: Der aktuelle Kilometerstand des Fahrzeugs.
 - **Baujahr**: Das Baujahr des Fahrzeugs.
-- **Aktueller Standort**: Der letzte bekannte Standort des Fahrzeugs (optional).
+- **Aktueller Standort**: Der letzte bekannte Standort des Fahrzeugs (optional). -- theoretisch in zukunft
 
 ## Trip
 
