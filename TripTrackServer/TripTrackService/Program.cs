@@ -1,3 +1,14 @@
+/*
+  _______   _    _______             _    
+ |__   __| (_)  |__   __|           | |   
+    | |_ __ _ _ __ | |_ __ __ _  ___| | __
+    | | '__| | '_ \| | '__/ _` |/ __| |/ /
+    | | |  | | |_) | | | | (_| | (__|   < 
+    |_|_|  |_| .__/|_|_|  \__,_|\___|_|\_\/
+             | |                          
+             |_|                          
+.@Dominik Babic 2024-25                   
+*/
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -16,9 +27,4 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
-.WithName("GetWeatherForecast")
-.WithOpenApi();
-
 app.Run();
-
