@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TripTrackService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8218695c84704adbf41f0277e2eb6783b033f4f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e5b5c267d1ce1c0ed88137f9ee5c8220231b33c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TripTrackService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TripTrackService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
